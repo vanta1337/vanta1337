@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://discord.com/channels/@me/766624895739625502/935450980324089886">
+<img src="https://cdn.discordapp.com/attachments/766624895739625502/935450980051451924/7E9C8E14-88AF-434E-9894-C4598C80E1F7.gif">
 </p>
 <p align="center">
     vanta
