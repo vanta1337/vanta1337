@@ -1,9 +1,9 @@
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/766624895739625502/935455647133220864/IMG_0683.gif">
 </p>
-<p align="center">
+<h1 align="center">
     vanta
-<p align="center">  
+<h1 align="center">  
 <img src="https://komarev.com/ghpvc/?username=vantaxyz&color=grey">
 </p>
     <p align="center">
