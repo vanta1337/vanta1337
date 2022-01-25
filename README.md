@@ -9,7 +9,7 @@
     <p align="center">
 </p>
 <p align="center">
-Currently learning Game Hacking
+
 <p align="center">
     
 ### Languages and Tools:
