@@ -7,7 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=vantaxyz&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/350336124360851466.png" />
 </p>
 <p align="center">
 Currently learning Game Hacking
