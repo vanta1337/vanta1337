@@ -4,7 +4,7 @@
 
 <img align="left" src="https://media.discordapp.net/attachments/766624895739625502/935450980051451924/7E9C8E14-88AF-434E-9894-C4598C80E1F7.gif" width="320" height="320"/> 
 
-```c++
+```
 vanta@anarchy
 -------------------------
 OS: Arch Linux x86_64
