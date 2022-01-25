@@ -4,18 +4,13 @@
 <h1 align="center">
     vanta
 <h1 align="center">
-<h3 align="center">
-   vantaxyz
-<h3 align="center">
 <img src="https://komarev.com/ghpvc/?username=vantaxyz&color=grey">
 </p>
     <p align="center">
 </p>
-<p align="center">
 
-<p align="center">
     
-### Languages and Tools:
+### Languages and Interests:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CSHARP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
