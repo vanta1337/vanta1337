@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">
     vanta
-<h1 align="center">  
+<h1 align="center">
+<h3 align="center">vantaxyz</h3> 
 <img src="https://komarev.com/ghpvc/?username=vantaxyz&color=grey">
 </p>
     <p align="center">
