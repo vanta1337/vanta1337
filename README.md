@@ -10,7 +10,8 @@ vanta@anarchy
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Location: Germany
-Tools: Visual Studio, Cheat Engine
+Interests: Cyber Security,
+           Software Engineering
 Languages: Python, C#,
            C++
 Learning: C++, Game Hacking
