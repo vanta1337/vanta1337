@@ -1,23 +1,24 @@
-<p align="center">  
-<img src="https://cdn.discordapp.com/attachments/766624895739625502/935455647133220864/IMG_0683.gif">
-</p>
-<h1 align="center">
-    vanta
-<h1 align="center">
-<img src="https://komarev.com/ghpvc/?username=vantaxyz&color=grey">
-</p>
-    <p align="center">
-</p>
+```zsh
+> neofetch
+```
 
-    
-### Languages and Interests:
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSHARP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<details>
-  <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=vantaxyz&show_icons=true&count_private=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantaxyz">
-</details>
+```csharp
+vanta@anarchy
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Location: Germany
+Tools: Visual Studio, Cheat Engine
+Languages: Python, C#,
+           C++
+Learning: C++, Game Hacking
+          
+Hobbies: Programming, Reversing
+Discord: vanta#2566
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
