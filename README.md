@@ -10,7 +10,6 @@ vanta@anarchy
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Location: Germany
-Age: 16
 Interests: Cyber Security,
            Software Engineering
 Languages: Python, C#,
