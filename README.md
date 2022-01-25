@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/935455647133220864/IMG_0683.gif" width="320" height="320"/> 
 
 ```csharp
 vanta@anarchy
@@ -14,7 +14,6 @@ Tools: Visual Studio, Cheat Engine
 Languages: Python, C#,
            C++
 Learning: C++, Game Hacking
-          
 Hobbies: Programming, Reversing
 Discord: vanta#2566
 ```
