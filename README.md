@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/938399946795778048/1.jpg" width="320" height="320"/> 
+<img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/938400110579175484/motiv1.png" width="320" height="320"/> 
 
 ```csharp
 vanta@anarchy
