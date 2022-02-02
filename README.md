@@ -17,6 +17,7 @@ Languages: Python, C#,
 Learning: C++, Game Hacking
 Hobbies: Programming, Reversing
 Discord: vanta#2566
+Linktree: vanta1337
 ```
 <p align="left">
   &nbsp;
