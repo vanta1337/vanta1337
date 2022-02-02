@@ -4,7 +4,7 @@
 
 <img align="left" src="https://cdn.discordapp.com/attachments/766624895739625502/938402160088080414/Unbenasssnnt.png" width="320" height="320"/> 
 
-```csharp
+```
 vanta@anarchy
 -------------------------
 OS: Arch Linux x86_64
