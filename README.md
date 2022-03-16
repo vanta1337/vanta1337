@@ -13,7 +13,7 @@ Location: Germany
 Interests: Cyber-Security,
            Software Engineering
 Languages: Python, C#,
-           C++
+           C++, JS
 Learning: C++, Game Hacking
 Hobbies: Programming, Reversing
 Discord: vanta#2566
