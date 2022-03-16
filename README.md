@@ -15,7 +15,7 @@ Interests: Cyber-Security,
 Languages: Python, C#,
            C++, JS
 Learning: C++, Game Hacking
-Hobbies: Programming, Reversing
+Hobbies: Programming, Reversing, Hacking
 Discord: vanta#2566
 Linktree: vanta1337
 ```
