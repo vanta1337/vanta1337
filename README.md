@@ -16,7 +16,7 @@ Languages: Python, C#,
            C++, JS
 Learning: C++, Game Hacking
 Hobbies: Programming, Reversing, Hacking
-Discord: vanta#2566
+Discord: vanta#1828
 Linktree: vanta1337
 ```
 <p align="left">
